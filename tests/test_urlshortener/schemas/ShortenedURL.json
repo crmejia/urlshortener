@@ -1,0 +1,21 @@
+{
+    "$schema": "http://json-schema.org/draft/2020-12/schema#",
+    "title": "ShortenedURL",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "string"
+        },
+        "url": {
+            "type": "string"
+        },
+        "short_url": {
+            "type": "string"
+        }
+    },
+    "required": [
+        "id",
+        "url",
+        "short_url"
+    ]
+}
