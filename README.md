@@ -12,15 +12,16 @@ Is a Python Flask API to shorten URLs. Inspired by the coding challenge: [Build 
 
 ### Frontend
 
-- [] TBD(it's HTMX)
-- [] CSS TBD
+- [ ] TBD(it's HTMX)
+- [ ] CSS TBD
 
 ### Infrastructure, CI/CD, Best Practices
 
-- [] GitHub Actions CI/CD
-- [] Deployment to TBD
+- [ ] GitHub Actions CI/CD
+- [ ] Deployment to TBD
 - [x] Unit tests
+- [x] GPL-3.0 license
 
 ### Tools
 
-- [] GitHub Copilot & prompt engineering
+- [ ] GitHub Copilot & prompt engineering
